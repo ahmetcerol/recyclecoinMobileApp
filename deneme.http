@@ -40,7 +40,7 @@ Authorization: Bearer --token gelecek--
 //Oturum açan kullanıcı bilgileri
 ###
 GET {{BASE_URL}}/users/me
-Authorization: Bearer --token gelecek--
+Authorization: Bearer --token geliyor--
 
 
 //Kişi kendini siliyor

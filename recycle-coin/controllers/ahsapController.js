@@ -1,3 +1,5 @@
+//Author: Hasan Sahin
+
 const Ahsap = require("../models/ahsapModel");
 const { AhsapTur } = require("../models/kategoriModel");
 
